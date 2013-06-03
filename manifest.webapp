@@ -7,7 +7,7 @@
     "url": "https://vicnala.github.io/helloffos"
   },
   "icons": {
-    "128": "/images/icon-128.png"
+    "128": "/helloffos/images/icon-128.png"
   },
   "installs_allowed_from": ["*"]
 }
