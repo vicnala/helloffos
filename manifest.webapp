@@ -6,5 +6,8 @@
     "name": "Victor Navarro <vicnala@gmail.com>",
     "url": "https://vicnala.github.io/helloffos"
   },
+  "icons": {
+    "128": "/images/icon-128.png"
+  },
   "installs_allowed_from": ["*"]
 }
