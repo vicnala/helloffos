@@ -1,7 +1,7 @@
 {
   "name": "helloffos",
   "description": "Trying Firefox OS the Amazing! HTML5 Operating System",
-  "launch_path": "/index.html",
+  "launch_path": "/helloffos/index.html",
   "developer": {
     "name": "Victor Navarro <vicnala@gmail.com>",
     "url": "https://vicnala.github.io/helloffos"
